@@ -14,4 +14,16 @@ A public repository for my programming in COS 470: Introduction to Information R
 
 ### &nbsp;&nbsp;- Assignment 2
 &nbsp;&nbsp;&nbsp;&nbsp; -> Questions3_5.ipynb : 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Inverted Index **|** Writing to File **|** Calculating **|** Tokenization
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Inverted Index **|** Tokenization **|** Calculating Kendall Tau Correlation **|** Writing to File
+
+&nbsp;&nbsp;&nbsp;&nbsp; -> indexes.tsv : 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Saved Indexes From Inverted Index
+
+&nbsp;&nbsp;&nbsp;&nbsp; -> Questions3_5.ipynb : 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Inverted Index **|** Tokenization **|** Calculating Kendall Tau Correlation
+
+&nbsp;&nbsp;&nbsp;&nbsp; -> qrels_assignment2 : 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Generated qrels for queries from Questions3_5.ipynb 
+
+&nbsp;&nbsp;&nbsp;&nbsp; -> assignment2_run.tsv : 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Generated results for queries from Questions3_5.ipynb (rank not considered, score is document count of terms)
