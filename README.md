@@ -19,9 +19,6 @@ A public repository for my programming in COS 470: Introduction to Information R
 &nbsp;&nbsp;&nbsp;&nbsp; -> indexes.tsv : 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Saved Indexes From Inverted Index
 
-&nbsp;&nbsp;&nbsp;&nbsp; -> Questions3_5.ipynb : 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Inverted Index **|** Tokenization **|** Calculating Kendall Tau Correlation
-
 &nbsp;&nbsp;&nbsp;&nbsp; -> qrels_assignment2 : 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Generated qrels for queries from Questions3_5.ipynb 
 
