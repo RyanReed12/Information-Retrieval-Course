@@ -39,8 +39,8 @@ def text_processor(input_text, remove_stopwords):
 # Boolean Search System
 
 # this block of code creates a tsv file with the list of postings. for time efficiency, the search system accesses the
-# tsv instead of creating a new list of postings. This will be commented out, but it's being left in a comment block in
-# the event that there is a desire to test it.
+# tsv instead of creating a new list of postings.
+# uncomment this to create the postings file
 
 """for question in post_reader.map_questions:
   post_contents = post_reader.map_questions[question].title + " " + post_reader.map_questions[question].body
