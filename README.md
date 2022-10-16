@@ -18,7 +18,13 @@ The contents must be unzipped in the same directory as the code.
 
 Post.py & post_parser_record.py ARE NOT mine, nor did I have any hand in coding them. They were tools provided for this project, although similiar much simpler and rudimentary variants of the code in post_parser_record.py can be found in the IR_Project1_SourceCode_Collection-Analysis.py file, namely for handling other forms of data.
 
-An important note: **the IRsystems file contains commented code for creating an inverted index file and a postings file**, these are for the simple inverted index & boolean retrieval systems, and **these two code blocks must be uncommented for the code to work properly**.
+An important note: **the IRsystems file contain commented code for creating an inverted index file and a postings file**, these are for the simple inverted index & boolean retrieval systems, and **these two code blocks must be uncommented for the code to work properly**.
+
+Summarization of Files:
+- IR_Project1_SourceCode_Collection-Analysis.py -> Contains analysis on the Game Development Stack Exchange data.
+- IR_Project1_SourceCode_IRSystems.py ->  Implementations and evaluation of boolean retrieval & simple inverted index systems over the collection.
+- Post.py -> Utility code for reading post data.  (Not mine).
+- post_parser_record.py -> Utility code for reading post data. (Not mine).
 
 ## Table of Contents - Assignments
 ### &nbsp;&nbsp;- Assignment 1
