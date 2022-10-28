@@ -47,3 +47,7 @@ Summarization of Files:
 
 &nbsp;&nbsp;&nbsp;&nbsp; -> assignment2_run.tsv : 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Generated results for queries from Questions3_5.ipynb (rank not considered, score is document count of terms)
+
+### &nbsp;&nbsp;- Assignment 3
+&nbsp;&nbsp;&nbsp;&nbsp; -> IRCourse_Assignment3.ipynb : 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Best Match 25 **|** Vector Space Model **|** TF-IDF **|** Model Comparison
