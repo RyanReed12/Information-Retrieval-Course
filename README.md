@@ -51,3 +51,7 @@ Summarization of Files:
 ### &nbsp;&nbsp;- Assignment 3
 &nbsp;&nbsp;&nbsp;&nbsp; -> IRCourse_Assignment3.ipynb : 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Best Match 25 **|** Vector Space Model **|** TF-IDF **|** Model Comparison
+
+### &nbsp;&nbsp;- Assignment 5
+&nbsp;&nbsp;&nbsp;&nbsp; -> IRCourse_Assignment5.ipynb : 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> Best Match 25 **|** Word2Vec **|** Topical Classification **|** Cosine Similiarity
