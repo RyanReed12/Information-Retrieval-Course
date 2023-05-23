@@ -1,5 +1,11 @@
 # COS 470   Repository
 
+### Note: Projects 2 & 3 were developed with my team partner, Nic Drummey, at:
+&nbsp;&nbsp; - Project 2: https://github.com/CousinNic/COS470_Information-Retrieval_Project2
+
+&nbsp;&nbsp; - Project 3: https://github.com/CousinNic/COS470_Information-Retrieval_Project3
+
+
 ### Description
 A public repository for my programming in COS 470: Introduction to Information Retrieval.
 
